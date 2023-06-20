@@ -2,4 +2,6 @@
 
 Mi  primer repositorio en GitHub
 
-i love ☕,:icecream:
+i love ☕:, 🍕:
+i love🍦:, 🍔: 
+
