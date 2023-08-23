@@ -11,7 +11,6 @@ Github
 Mi última línea en el repositorio 
 
 Nueva actividad  
-Nueva linea
 Finalizando github 
 Modifico listas
 para realizar mi última modificación 
